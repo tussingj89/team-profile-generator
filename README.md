@@ -19,7 +19,7 @@
   - [Questions and Feedback](#questions-and-feedback)
 
   ## Installation
-   To run, simply clone the repo, run npm i -y to download modules, and then run node app.js.
+   To run, simply clone the repo, run npm i to download modules, and then run node app.js.
 
   ## Usage
   This project will be used to create a team.html file to display the members of the team.
