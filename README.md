@@ -3,7 +3,7 @@
   # team-profile-generator
  
   ## Description
-  This project focuses on the use of object oreinted programing or OOP. With the use of OOP you can write constructors that will allow following constructors to inherit the properties of the parent class without having to write the same code over and over.
+  This project focuses on the use of object oreinted programing or OOP. With the use of OOP you can write constructors that will allow following objects to inherit the properties of the constructor without having to write the same code over and over.
   
   ## Table of Contents
   - [Title](#Title)
