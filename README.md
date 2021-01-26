@@ -29,7 +29,7 @@
 
   ## Code Sample
   As shown in the example code, I used asynchronous functions to call the functions and used inherited constructor properties to build my employee objects.
-  <img src="./Assets/sampleCode.png" alt="team-profile-generator"/>
+  <img src="./Assets/samplecode.png" alt="team-profile-generator"/>
 
   ## Screenshot
   <img src="./Assets/screenshot.gif" alt="team-profile-generator"/>
