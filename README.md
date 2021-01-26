@@ -29,10 +29,10 @@
 
   ## Code Sample
   As shown in the example code, I used asynchronous functions to call the functions and used inherited constructor properties to build my employee objects.
-  <img src="./assets/sampleCode.png" alt="team-profile-generator"/>
+  <img src="./Assets/sampleCode.png" alt="team-profile-generator"/>
 
   ## Screenshot
-  <img src="./assets/screenshot.gif" alt="team-profile-generator"/>
+  <img src="./Assets/screenshot.gif" alt="team-profile-generator"/>
 
   ## License
   MIT License - see the [LICENSE.txt](https://github.com/tussingj89/team-profile-generator/blob/main/LICENSE.txt) file for details
